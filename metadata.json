@@ -1,0 +1,6 @@
+{
+  "name": "Word Casino",
+  "description": "A cozy, Wild West pixel-art word casino. Play Wanted! (Word Hangman) and Letterjack (Word Blackjack) with persistent statistics and local storage-based saves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
